@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Mariiopl</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b1fae6b3-6955-459f-b7e8-fa0dcd5a1477" />
 
 
 ## Sobre mi
