@@ -11,6 +11,7 @@
 <br>
 
 ## Proyectos *bombitas*
+<!--
 <table>
 <tr>
 <td width="50%">
